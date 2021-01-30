@@ -1,0 +1,19 @@
+body{
+    margin-top:130px;
+    background-color: rgba(101, 136, 197, 0.253);
+}
+
+.button-1 p{
+font-size:60px;
+color: black;
+font-style: oblique;
+}
+.button-2{
+    padding: 0px 30px;
+}
+.btn{
+    font-size: 25px;
+}
+.con_btn{
+    background-color: transparent;
+}
